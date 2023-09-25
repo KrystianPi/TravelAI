@@ -1,0 +1,2 @@
+select * from wiki_geo.geo_tags 
+where gt_lat > 41.85 and gt_lat < 41.95;
